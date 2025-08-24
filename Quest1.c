@@ -59,10 +59,6 @@ float conversorTemp(float t, char e){  //t-temperatura, e-escala.
 
 
 
-
-
-
-
 void retornaPrimo(int N){
     if(N<1){
         printf("Não se aplica");
